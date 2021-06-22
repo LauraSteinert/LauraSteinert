@@ -8,15 +8,18 @@ Deeply passionate about learning new things, always willing to step out of my co
 
 ##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on the [ft_printf](https://github.com/LauraSteinert/ft_printf) project.
+- 🌱 I’m currently learning about the basics of hardware!
+- 👯 I’m looking to collaborate on Open Source projects.
+- 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/laurasteinert/)  
+- :nerd_face: I'm interested in learning about AI, Machine Learning, GameDev and Cybersecurity. 
+- ⚡ Fun fact:
+  -  My farm in Stardew Valley is quite something. ✨
+  -  I was a girl scout for 8 years of my life.
+  -  I made a lil game in portuguese! It was inspired by Untitled Goose Game. You are a dreadful horrendous vile creature: a goose. You can play it here:[Really cool game](https://github.com/LauraSteinert/JogoDaora).
 
+## 
 ## Status
 
 <!--Status-->
