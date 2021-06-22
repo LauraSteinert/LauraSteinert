@@ -19,12 +19,12 @@ Deeply passionate about learning new things, always willing to step out of my co
   -  I was a girl scout for 8 years of my life.
   -  I made a lil game in portuguese! It was inspired by Untitled Goose Game. You are a dreadful horrendous vile creature: a goose. You can play it here:[Really cool game](https://github.com/LauraSteinert/JogoDaora).
 
-## 
 ## Status
 
 <!--Status-->
-![LauraSteinert's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraSteinert&show_icons=true&theme=gruvbox)  
+![LauraSteinert's GitHub stats](https://github-readme-stats.vercel.app/api?username=LauraSteinert&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSteinert&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
+  
 [![lsteiner's 42 stats](https://badge42.herokuapp.com/api/stats/lsteiner?privacyEmail=true&cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
 <!--
 **LauraSteinert/LauraSteinert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
