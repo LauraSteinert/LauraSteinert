@@ -17,7 +17,7 @@ Deeply passionate about learning new things, always willing to step out of my co
 - ⚡ Fun fact:
   -  My farm in Stardew Valley is quite something. ✨
   -  I was a girl scout for 8 years of my life.
-  <!--I made a lil game in portuguese! It was inspired by Untitled Goose Game. You are a dreadful horrendous vile creature: a goose. You can play it here: [Really cool game](https://github.com/LauraSteinert/JogoDaora).-->
+  I made a lil game in portuguese! It was inspired by Untitled Goose Game. You are a dreadful horrendous vile creature: a goose. You can play it here: [Really cool game](https://github.com/LauraSteinert/JogoDaora).
 
 ## Status
 
