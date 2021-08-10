@@ -8,7 +8,7 @@ Deeply passionate about learning new things, always willing to step out of my co
 
 ##
 
-- 🔭 I’m currently working on the [ft_printf](https://github.com/LauraSteinert/ft_printf) project.
+- 🔭 I’m currently working on the [Born2beRoot](https://github.com/LauraSteinert/Born2beRoot) project.
 - 🌱 I’m currently learning about the basics of hardware!
 - 👯 I’m looking to collaborate on Open Source projects.
 - 📫 How to reach me: 
