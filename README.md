@@ -2,7 +2,7 @@
 ![Stardew Valley gif](stardew.gif)
 ### Hi there, I'm Laura 👋
 
-Hello! My name is Laura Steinert, I'm 21 years old, and I've been coding for almost three years. I love learning about new things and I'm passionate about the environment and how technology can help with environmental protection. I'm a software engineering student at [école 42](https://www.42.fr/) in [Sao Paulo, Brazil](https://www.42sp.org.br/), and I'm finishing my degree in Environmental Management at the University of Sao Paulo. 
+Hello! My name is Laura Steinert, I'm 22 years old, and I've been coding for almost three years. I love learning about new things and I'm passionate about the environment and how technology can help with environmental protection. I'm a software engineering student at [école 42](https://www.42.fr/) in [Sao Paulo, Brazil](https://www.42sp.org.br/), and I'm finishing my degree in Environmental Management at the University of Sao Paulo. 
 
 Deeply passionate about learning new things, always willing to step out of my comfort zone and in love with technology and teaching it!
 
